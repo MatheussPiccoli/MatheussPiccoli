@@ -3,8 +3,6 @@
 
 - 🔭 Se você quiser dar uma olhada em meu último projeto que estive trabalhando [Backend Marketplace](https://github.com/eduoliveirachaves/web-backend)
 
-- 🌱 Atualmente estou aprendendo **NestJS, NextJS**
-
 - 👨‍💻 Alguns dos meus projetos (não todos) estão disponíveis aqui [https://matheus-piccoli-portfolio.onrender.com/](https://matheus-piccoli-portfolio.onrender.com/)
 
 - 📫 Quer entrar em contato? **matheuspdmoura@gmail.com**
