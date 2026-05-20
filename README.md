@@ -1,13 +1,13 @@
 <h1 align="center">Oi! Eu sou Matheus Piccoli</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 Se você quiser dar uma olhada em meu último projeto que estive trabalhando [Backend Marketplace](https://github.com/MatheussPiccoli/finance-app-api.git)
+- 🔭 Se você quiser dar uma olhada em meu último projeto que estive trabalhando [finnance-app-api](https://github.com/MatheussPiccoli/finance-app-api.git)
 
-- 👨‍💻 Alguns dos meus projetos (não todos) estão disponíveis aqui [https://matheus-piccoli-portfolio.onrender.com/](https://matheus-piccoli-portfolio.onrender.com/)
+- 👨‍💻 Alguns dos meus projetos (não todos) estão disponíveis aqui [Meu Portfólio](https://matheus-piccoli-portfolio.onrender.com/)
 
 - 📫 Quer entrar em contato? **matheuspdmoura@gmail.com**
 
-- Você pode encontrar meu currículo aqui! [https://matheus-piccoli-portfolio.onrender.com/curriculo.pdf](https://matheus-piccoli-portfolio.onrender.com/curriculo.pdf)
+- Você pode encontrar meu currículo aqui! [Currículo Matheus Piccoli de Moura](https://matheus-piccoli-portfolio.onrender.com/curriculo.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
