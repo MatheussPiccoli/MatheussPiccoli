@@ -1,7 +1,7 @@
 <h1 align="center">Oi! Eu sou Matheus Piccoli</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 Se você quiser dar uma olhada em meu último projeto que estive trabalhando [Backend Marketplace](https://github.com/eduoliveirachaves/web-backend)
+- 🔭 Se você quiser dar uma olhada em meu último projeto que estive trabalhando [Backend Marketplace](https://github.com/MatheussPiccoli/finance-app-api.git)
 
 - 👨‍💻 Alguns dos meus projetos (não todos) estão disponíveis aqui [https://matheus-piccoli-portfolio.onrender.com/](https://matheus-piccoli-portfolio.onrender.com/)
 
