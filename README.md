@@ -44,4 +44,4 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheussPiccoli&show_icons=true&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MatheussPiccoli&theme=radical)
